@@ -1,0 +1,3 @@
+It is just an introduction of version control and some introduction of Git.
+
+I made a mistake on the editor

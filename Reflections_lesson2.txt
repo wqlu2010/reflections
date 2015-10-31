@@ -1,0 +1,1 @@
+This starts to learn more about Git as a standalone program on the pc.
